@@ -1,2 +1,2 @@
 # TimberCounter
-Logs and timber counter using images processed through AI model
+Logs and timber counter using images processing by using OpenCV module
